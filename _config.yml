@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Jason / 个人简历"
+title                    : "陈鹏宇 / 个人简历"
 title_separator          : "-"
-name                     : &name "Jason Chen"
-description              : &description "Jason's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "陈鹏宇"
+description              : &description "陈鹏宇的学术简历"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jasonchen99.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "jasonchen99/jasonchen99.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jason Chen"
+  name             : "陈鹏宇"
   pronouns         : # example: "she/her"  
   bio              : "研究反应堆物理与高性能计算的博士生"
   location         : "广东省珠海市"
